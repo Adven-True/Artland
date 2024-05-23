@@ -28,4 +28,6 @@ Built with Angular, Node.js and MySQl.
 
 <img width="1841" alt="SCR-20240523-nklg" src="https://github.com/Adven-True/Artland/assets/154115104/164d5a5e-01e1-4251-921b-73b01f3bbdd4">
 
+<img width="1314" alt="SCR-20240523-nprx" src="https://github.com/Adven-True/Artland/assets/154115104/0293e2f3-0cea-46ba-98cd-3eebbee1570a">
+
 <img width="1845" alt="SCR-20240523-nlgf" src="https://github.com/Adven-True/Artland/assets/154115104/05d0638d-c2ca-455a-a821-42d46507296a">
