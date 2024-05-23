@@ -9,7 +9,9 @@ Built with Angular, Node.js and MySQl.
 5. Form Validators
 6. RESTful APIs
 7. Errors Handling
-![SCR-20240523-nire](https://github.com/Adven-True/Artland/assets/154115104/707b3cde-be2e-443a-809b-02cf97e89f4f)
+
+## User pages
+![SCR-20240523-nonm](https://github.com/Adven-True/Artland/assets/154115104/8fff685b-d02d-446c-80e5-44fd398208ba)
 
 ![SCR-20240523-njpw](https://github.com/Adven-True/Artland/assets/154115104/349acc4d-3147-4ac4-a9ea-e7e8259a9e88)
 
@@ -20,6 +22,9 @@ Built with Angular, Node.js and MySQl.
 <img width="1834" alt="SCR-20240523-nkfq" src="https://github.com/Adven-True/Artland/assets/154115104/51cecdb7-6a7d-4bef-8d17-d037f5b5222b">
 
 <img width="1833" alt="SCR-20240523-nkhs" src="https://github.com/Adven-True/Artland/assets/154115104/885dbb02-3240-490e-a2d3-b5a1e647e76c">
+
+## Admin pages
+![SCR-20240523-nire](https://github.com/Adven-True/Artland/assets/154115104/707b3cde-be2e-443a-809b-02cf97e89f4f)
 
 <img width="1841" alt="SCR-20240523-nklg" src="https://github.com/Adven-True/Artland/assets/154115104/164d5a5e-01e1-4251-921b-73b01f3bbdd4">
 
